@@ -1,0 +1,13 @@
+Useful vi Commands:
+
+i = insert
+
+"esc" = stop writing, leaves text box
+
+:# = go to specific line; ex) :3 goes to line 3
+
+:w = save
+
+:q = quit
+
+ 
