@@ -1,6 +1,8 @@
 Notes on Terminal Commands
 
+pwd: shows you where you are (ex: monicagoebel, Desktop, MAT341_Self, etc.)
 ls: lists every file/folder in your directory
-cd: change directory
-i: start editing
-"esc": stop editing
+cd: change directory (up 1 directory)
+	cd Desktop/MAT341_Self/Class: brings you to Class
+	cd ~: brings you all the way to monicagoebel
+vi filename: opens up text box to type in
