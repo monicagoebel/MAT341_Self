@@ -1,8 +1,8 @@
 Useful vi Commands:
 
-i = insert
+i = insert (start typing)
 
-"esc" = stop writing, leaves text box
+"esc" = stop typing, leaves text box
 
 :# = go to specific line; ex) :3 goes to line 3
 
