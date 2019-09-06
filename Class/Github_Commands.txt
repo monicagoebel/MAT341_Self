@@ -4,4 +4,6 @@ How to stage, commit, and push to github
 2. git commit -m "notes for yourself" (put those notes in "")
 3. git push
 
+** to add all files in a folder (only files, not folders), type git add ./*
+
 :)
