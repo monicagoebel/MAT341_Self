@@ -6,3 +6,5 @@ cd: change directory (up 1 directory)
 	cd Desktop/MAT341_Self/Class: brings you to Class
 	cd ~: brings you all the way to monicagoebel
 vi filename: opens up text box to type in
+clear: clears your screen
+history: shows everything you've typed in the past
